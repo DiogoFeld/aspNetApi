@@ -25,3 +25,14 @@ C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\obj\Debug\ne
 C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.pdb
 C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.genruntimeconfig.cache
 C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ref\ApiTarefas.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Estudos Programação\aspNetApi\ApiTarefas\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
