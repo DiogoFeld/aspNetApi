@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APIS\\Macoratti - Api\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {}
+    "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\APiCatalogo2.csproj": {}
   },
   "projects": {
-    "D:\\APIS\\Macoratti - Api\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {
+    "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\APiCatalogo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APIS\\Macoratti - Api\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
-        "projectName": "ApiCatalogo",
-        "projectPath": "D:\\APIS\\Macoratti - Api\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectUniqueName": "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\APiCatalogo2.csproj",
+        "projectName": "APiCatalogo2",
+        "projectPath": "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\APiCatalogo2.csproj",
         "packagesPath": "C:\\Users\\DIOGO\\.nuget\\packages\\",
-        "outputPath": "D:\\APIS\\Macoratti - Api\\ApiCatalogo\\ApiCatalogo\\obj\\",
+        "outputPath": "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIOGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,29 +41,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
