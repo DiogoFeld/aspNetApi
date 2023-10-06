@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos Programação\\aspNetApi\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj": {}
+    "D:\\APIS\\Macoratti - Api\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Estudos Programação\\aspNetApi\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj": {
+    "D:\\APIS\\Macoratti - Api\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos Programação\\aspNetApi\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj",
+        "projectUniqueName": "D:\\APIS\\Macoratti - Api\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj",
         "projectName": "ApiTarefas",
-        "projectPath": "C:\\Estudos Programação\\aspNetApi\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj",
-        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos Programação\\aspNetApi\\ApiTarefas\\ApiTarefas\\ApiTarefas\\obj\\",
+        "projectPath": "D:\\APIS\\Macoratti - Api\\ApiTarefas\\ApiTarefas\\ApiTarefas\\ApiTarefas.csproj",
+        "packagesPath": "C:\\Users\\DIOGO\\.nuget\\packages\\",
+        "outputPath": "D:\\APIS\\Macoratti - Api\\ApiTarefas\\ApiTarefas\\ApiTarefas\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DIOGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

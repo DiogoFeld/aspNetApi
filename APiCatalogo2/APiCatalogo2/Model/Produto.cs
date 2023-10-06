@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Json.Serialization;
 
 namespace APiCatalogo2.Model
 {
@@ -13,6 +14,7 @@ namespace APiCatalogo2.Model
         public int Estoque { get; set; }
 
         public int CaregoriaId { get; set; }
+        [JsonIgnore]
         public Categoria? Categoria { get; set; }
 
     }
