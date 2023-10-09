@@ -85,3 +85,4 @@ D:\APIS\Macoratti - Api\APiCatalogo2\APiCatalogo2\bin\Debug\net6.0\System.CodeDo
 D:\APIS\Macoratti - Api\APiCatalogo2\APiCatalogo2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 D:\APIS\Macoratti - Api\APiCatalogo2\APiCatalogo2\bin\Debug\net6.0\System.Text.Json.dll
 D:\APIS\Macoratti - Api\APiCatalogo2\APiCatalogo2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\APIS\Macoratti - Api\APiCatalogo2\APiCatalogo2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

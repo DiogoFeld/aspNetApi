@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LTsMs/Mg+eYD+WrZoqEu7PnQ5y4+p86pBx4cL8cb51tJJZl4theceUXCGWcHxIikB15Kdh5qLAf3Gb1k4LMWoQ==",
+  "dgSpecHash": "9NdB8ASzJsA5ike6KhevKoYmHqjakl9qCfDo3oAdknHx/if/ffbDhr0AoDZhkaiG1dFLxNGtcYi//HGL/wFMmw==",
   "success": true,
   "projectFilePath": "D:\\APIS\\Macoratti - Api\\APiCatalogo2\\APiCatalogo2\\APiCatalogo2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIOGO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DIOGO\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\DIOGO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\DIOGO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\DIOGO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DIOGO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DIOGO\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
