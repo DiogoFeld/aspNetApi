@@ -65,8 +65,6 @@ namespace APiCatalogo2.ApiEndpoints
 
                 return Results.Ok(categoriaDB);
             });
-
-
         }
 
 

@@ -24,8 +24,6 @@ builder.AddAuthenticationJwt();
 
 
 
-
-
 var app = builder.Build();
 
 app.MapAutenticacaoEndpoints();
