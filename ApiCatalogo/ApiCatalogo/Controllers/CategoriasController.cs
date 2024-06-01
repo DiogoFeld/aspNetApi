@@ -52,8 +52,6 @@ namespace ApiCatalogo.Controllers
             return _context.Categorias.Include(p => p.Produtos).AsNoTracking().ToList();
         }
 
-
-
         [HttpPost]
         public ActionResult Post(Categoria categoria)
         {
