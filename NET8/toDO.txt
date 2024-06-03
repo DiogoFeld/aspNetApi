@@ -1,0 +1,1 @@
+Checar a FLuent API para ver a opcção de Data Annnotation de uma forma menos "poluida"
