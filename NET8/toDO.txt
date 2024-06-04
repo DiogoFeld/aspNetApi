@@ -1,1 +1,7 @@
+Inserir os Endpoints de Bad request e NotFound aula - 41 a 44 Criando o CRUD
+Ulitilizar scafold para gerar o codigo de CRUD de uma entidade -> aula 40 - criando Controlador
 Checar a FLuent API para ver a opcção de Data Annnotation de uma forma menos "poluida"
+Usar blocos de Try - Catch - aula 49.
+Realizar métodos da forma Assyncrona.
+Model Binding - aula 57
+Data Annotation nas classes junto com error message e tentativas de validação - MIN E MAXIMUN LENGHT por exemplo (59)
