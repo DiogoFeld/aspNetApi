@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiCatalogo-RepositoryAsyncPag/APICatalogo/.vs/ProjectEvaluation
+/MVC/MVCTemplate/bin/Debug/net8.0
+/MVC/MVCTemplate/.vs/MVCTemplate/FileContentIndex
+/MVC/MVCTemplate/.vs/MVCTemplate/v17
+/MVC/MVCTemplate/obj/Debug/net8.0
+/MVC/MVCTemplate/obj/Debug/net8.0/ref
+/MVC/MVCTemplate/obj/Debug/net8.0/refint
+/MVC/MVCTemplate/obj/Debug/net8.0/scopedcss/bundle
+/MVC/MVCTemplate/obj/Debug/net8.0/scopedcss/projectbundle
+/MVC/MVCTemplate/obj/Debug/net8.0/staticwebassets
+/MVC/MVCTemplate/obj/Debug/net8.0/ref
+/MVC/MVCTemplate/obj/Debug/net8.0/refint
+/MVC/MVCTemplate/obj/Debug/net8.0/scopedcss/Views/Shared
+TemplateNet8/.vs/ProjectEvaluation
+TemplateNet8/.vs/TemplateNet8
+TemplateNet8/.vs/TemplateNet8
+TemplateNet8/obj
+TemplateNet8/bin/Debug/net8.0
+NET8\16_Repo_GenericFim\APICatalogo\obj
+NET8\16_Repo_GenericFim\APICatalogo\bin
